@@ -3,6 +3,5 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-  require 'custom.plugins.options',
-  require 'custom.plugins.kanagawa',
+  require 'custom/plugins/options',
 }
